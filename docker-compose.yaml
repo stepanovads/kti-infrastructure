@@ -12,7 +12,7 @@ services:
       - flask
 
   flask:
-    # image: "nazarenkodi/flask:1.0"
+    # image: "stepanovads/flask:1.0"
     build: .
     container_name: flask
     environment:
