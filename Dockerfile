@@ -11,4 +11,3 @@ RUN pip install -r requirements.txt
 
 COPY ./flask_project /flask_project
 
-
